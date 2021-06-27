@@ -22,7 +22,7 @@ After that navigate to localhost:3001 to start using the app.
 
 ## Example Usage
 
-Deployed App: update heroku link here
+Deployed App: https://adrianfinance-tracker.herokuapp.com/
 
 An example screenshot of the application is below.
 
