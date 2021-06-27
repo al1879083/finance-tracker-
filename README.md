@@ -26,4 +26,4 @@ Deployed App: https://adrianfinance-tracker.herokuapp.com/
 
 An example screenshot of the application is below.
 
-![screenshot](insert screenshot here)
+![screenshot](https://github.com/al1879083/finance-tracker-/blob/main/public/workingapp.png)
